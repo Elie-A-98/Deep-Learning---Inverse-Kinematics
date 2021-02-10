@@ -6,11 +6,11 @@ This is a small project was done as an introduction to neural networks
 
 # Neural network
 
-(100, 2) neural networs
+(100, 2) MLP neural networs
 
-dense hidden layer
-activation function = relu
-optimizer = rmsprop
+dense hidden layer  
+activation function = relu  
+optimizer = rmsprop  
 
 # Loss after training:
 
