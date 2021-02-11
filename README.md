@@ -1,6 +1,6 @@
 # Deep-Learning---Inverse-Kinematics
 
-This is a small project was done as an introduction to neural networks
+This is a small project done as an introduction to neural networks
 
 ![alt text](https://github.com/Elie-A-98/Deep-Learning---Inverse-Kinematics/blob/main/img1.png)
 
